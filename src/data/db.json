@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "titulo": "como utilizar el display block",
+        "categoria": "Front End",
+        "imagen": "https://www.servnet.mx/blog/backend-y-frontend-partes-fundamentales-de-la-programacion-de-una-aplicacion-webn",
+        "video": "https://www.youtube.com/watch?v=M93eOMiVtiw",
+        "descripcion": "El frontend se refiere a la parte visible de un sitio web o aplicación con la que los usuarios pueden interactuar directamente. Es la cara del sitio, ubicada en el lado del cliente. Por otro lado, el Backend se encarga de la conexión con la base de datos y el servidor utilizado por el sitio web. Esta parte está situada en el lado del servidor."
+    }
+]
